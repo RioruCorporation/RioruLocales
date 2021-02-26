@@ -1,10 +1,11 @@
 {
     "utils": {
-        "needArgsOrMention": "Você precisa mencionar alguém ou me passar um ID, Username/Nickname"
+        "needArgsOrMention": "Você precisa mencionar alguém ou me passar um ID, Username/Nickname",
+        "notFoundAnyUser": "Não achei ninguém com o ID ou Username `<<ARGS>>`"
     },
   
     "slap": {
-        "trySlapBot": "Como você consegue dormir depois de tentar bater em mim ? :c , <<BOT>> deu um tapa bem merecido em <<@"
+        "trySlapBot": "Como você consegue dormir depois de tentar bater em mim ? :c , <<BOT>> deu um tapa bem merecido em <<USER>>"
     },
   
     "kiss": {
