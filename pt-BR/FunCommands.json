@@ -1,0 +1,13 @@
+{
+    "utils": {
+        "needArgsOrMention": "Você precisa mencionar alguém ou me passar um ID, Username/Nickname"
+    },
+  
+    "slap": {
+        "trySlapBot": "Como você consegue dormir depois de tentar bater em mim ? :c , <<BOT>> deu um tapa bem merecido em <<@"
+    },
+  
+    "kiss": {
+       "tryKissBot": "Nah, não quero te beijar"
+    }
+}
