@@ -1,7 +1,7 @@
 {
     "utils": {
         "needArgsOrMention": "Você precisa mencionar alguém ou me passar um ID, Username/Nickname",
-        "notFoundAnyUser": "Não achei ninguém com o ID ou Username `<<ARGS>>`"
+        "notFoundAnyUser": "Não achei ninguém com o ID ou Username `<<ARGS>>`, lembre-se que eu pesquiso por ID, Menção e Username"
     },
   
     "slap": {

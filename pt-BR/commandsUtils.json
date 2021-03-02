@@ -1,6 +1,0 @@
-{
-   "ping": {
-      "originalMessage": "Pong :3, Aguarde um momento...",
-      "afterEdit": "⭐ Shard {{shardNumber}}(Cluster {{clusterName}})\n📡 | O Ping da API é de %d ms\n😎 | O meu ping é de %d ms" 
-   }
-}
